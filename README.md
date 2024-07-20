@@ -2,6 +2,7 @@ Creation Date: 2024-07-20.
 Author: Bryson MacDuff
 
 - Insructions for how to build from top level directory.
+    - mkdir build
     - cd build
     - cmake ..
     - make
